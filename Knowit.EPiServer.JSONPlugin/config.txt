@@ -1,0 +1,5 @@
+﻿<system.webServer>
+	<handlers>
+		<add name="JSONHandler" verb="*" path="JSONHandler.ashx" type="Knowit.EPiServer.JSONPlugin.JSONHandler, Knowit.EPiServer.JSONPlugin" />
+	</handlers>
+</system.webServer>

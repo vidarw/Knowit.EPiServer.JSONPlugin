@@ -1,0 +1,1 @@
+﻿C:\Users\wrdx\Documents\GitHub\Knowit.EPiServer.JSONPlugin\packages\PageTypeBuilder.2.0\lib\net35\PageTypeBuilder.dll

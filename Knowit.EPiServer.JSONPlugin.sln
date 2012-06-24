@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Knowit.EPiServer.JSONPlugin", "Knowit.EPiServer.JSONPlugin\Knowit.EPiServer.JSONPlugin.csproj", "{F3644C4A-AAC4-44B6-BDC3-0A67B172EB11}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Knowit.EPiServer.JSONPlugin.Tests", "Knowit.EPiServer.JSONPlugin.Tests\Knowit.EPiServer.JSONPlugin.Tests.csproj", "{190C6BCD-5761-4DB9-9742-8B71EB80793F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3644C4A-AAC4-44B6-BDC3-0A67B172EB11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3644C4A-AAC4-44B6-BDC3-0A67B172EB11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3644C4A-AAC4-44B6-BDC3-0A67B172EB11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3644C4A-AAC4-44B6-BDC3-0A67B172EB11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{190C6BCD-5761-4DB9-9742-8B71EB80793F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{190C6BCD-5761-4DB9-9742-8B71EB80793F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{190C6BCD-5761-4DB9-9742-8B71EB80793F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{190C6BCD-5761-4DB9-9742-8B71EB80793F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

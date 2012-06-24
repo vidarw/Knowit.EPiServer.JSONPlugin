@@ -1,0 +1,7 @@
+<Modules>
+  <Module PersistentId="F3644C4A-AAC4-44B6-BDC3-0A67B172EB11" ModuleId="Knowit.EPiServer.JSONPlugin" />
+  <Module PersistentId="21436577-E8F5-4F02-8D02-F22A1B94B812" ModuleId="Knowit.EPiServer.JSONPlugin.Tests" />
+  <Module PersistentId="190C6BCD-5761-4DB9-9742-8B71EB80793F" ModuleId="Knowit.EPiServer.JSONPlugin.Tests_1" />
+  <Module PersistentId="PageTypeBuilder, Version=2.0.0.0, Culture=neutral, PublicKeyToken=6fb8762af0e6dbed" ModuleId="PageTypeBuilder" />
+  <Module PersistentId="Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed" ModuleId="Newtonsoft.Json" />
+</Modules>
